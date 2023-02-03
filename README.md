@@ -21,5 +21,3 @@ django-admin startproject <project-name>
 django-admin startproject setup
 python manage.py startapp <appname>
 ```
-
-## Help
