@@ -15,7 +15,7 @@ If doing a local installation the following setups need to be done
 * Set up a Django project
 * Start a Django app
 
-The following will result in Django creating its default folder structure for your project and app
+The following bash commands run post installation will result in Django creating its default folder structure for your project and app
 ```bash
 django-admin startproject <project-name>
 django-admin startproject setup
