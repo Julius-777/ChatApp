@@ -1,7 +1,7 @@
 # Chat Application
 
 This is a simple chat app built using Python Django Framework. To test the application take the following steps:
-* Open up the website on two different browsers.
+* Open up the website on two different browsers [Link](https://replit.com/@Julius777/ChatApp).
 * Enter the same room name to subscribe to that room
 * Enter two different usernames.
 * Send and recieve messages between both users
